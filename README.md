@@ -28,4 +28,19 @@ Play chess in the browser with basic piece movements, turn-based gameplay, and v
 ---
 
 ## 📂 Project Structure
+chess-game/
+├── index.html # Main HTML file
+├── style.css # CSS for styling chessboard and pieces
+├── script.js # JavaScript for game logic and piece movement
+└── README.md
+
+
+---
+
+## ⚙️ How to Run
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/chess-game.git
+cd chess-game
 
